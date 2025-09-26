@@ -1,0 +1,7 @@
+dot
+cat
+dog
+dog
+dog
+dog
+bird
